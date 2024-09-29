@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+At time                    0, a = 0, b = 0, c_in = 0 : s = 0, c_out = 0
+At time                10000, a = 0, b = 0, c_in = 1 : s = 1, c_out = 0
+At time                20000, a = 0, b = 1, c_in = 0 : s = 1, c_out = 0
+At time                30000, a = 0, b = 1, c_in = 1 : s = 0, c_out = 1
+At time                40000, a = 1, b = 0, c_in = 0 : s = 1, c_out = 0
+At time                50000, a = 1, b = 0, c_in = 1 : s = 0, c_out = 1
+At time                60000, a = 1, b = 1, c_in = 0 : s = 0, c_out = 1
+At time                70000, a = 1, b = 1, c_in = 1 : s = 1, c_out = 1
+$finish called at time : 80 ns : File "C:/Users/harsh/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.v" Line 56
